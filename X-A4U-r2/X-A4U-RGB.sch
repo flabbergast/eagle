@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2563,7 +2563,7 @@ DIN A4, landscape with extra doc field</description>
 </library>
 </libraries>
 <attributes>
-<attribute name="REVISION" value="r2"/>
+<attribute name="REVISION" value="r2.1"/>
 </attributes>
 <variantdefs>
 </variantdefs>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -183,10 +183,11 @@
 <text x="5.207" y="20.701" size="0.8128" layer="21" font="vector" ratio="10">R</text>
 <text x="14.732" y="22.225" size="0.8128" layer="21" font="vector" ratio="10" rot="R90">R</text>
 <text x="10.541" y="21.463" size="0.8128" layer="21" font="vector" ratio="10" rot="R90">RGB</text>
-<text x="16.383" y="20.574" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">LED/e1:G/e2:B/e3:R</text>
+<text x="16.383" y="20.574" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">LED/e1:G/e2:R/e3:B</text>
 <text x="13.843" y="26.416" size="0.8128" layer="21" font="vector" ratio="10" rot="R90">.1</text>
 <text x="6.985" y="11.938" size="0.8128" layer="21" font="vector" ratio="10">22</text>
-<text x="15.494" y="16.764" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">rev2</text>
+<text x="15.494" y="15.875" size="0.8128" layer="21" font="vector" ratio="15" rot="R90">rev2.1</text>
+<wire x1="4.699" y1="37.592" x2="15.621" y2="37.592" width="0.254" layer="21"/>
 </plain>
 <libraries>
 <library name="flabbergast">
