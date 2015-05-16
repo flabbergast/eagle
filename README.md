@@ -2,6 +2,17 @@
 
 Currently, the following PCBs are here:
 
+## X-A4U stick (rev1 and rev2.1)
+
+An USB stick with atxmega128a4u, RGB LED, microSD socket and 2 buttons.
+More details [here](https://flabbergast.github.io/x-a4u-r2/).
+
+## little2wire
+
+My SMD take on [Little Wire](http://littlewire.cc). Optionally 3V3
+operation, USB-A or mini or micro USB socket. Webpage
+[here](https://flabbergast.github.io/l2w/).
+
 ## [AVR stick] microSD + ATMEL EEPROM shield
 
 A shield for matrixstorm's [AVR stick], with micro SD, SOIC-8 (JEDEC)
