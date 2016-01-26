@@ -33,6 +33,9 @@ SOIC-8 I2C EEPROM landing. Note that the boards from [Olimex] with UEXT
 already have pull-ups on I2C signals, so these are not needed if it
 should be used with them.
 
+## Various breakout_ boards
+
+These are basic breakouts for some ARM chips. Minimal (recommended) extra parts. For photos and some comments see [this post](https://flabbergast.github.io/posts/arm-breakouts/).
 
 
 
