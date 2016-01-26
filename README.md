@@ -37,6 +37,10 @@ should be used with them.
 
 These are basic breakouts for some ARM chips. Minimal (recommended) extra parts. For photos and some comments see [this post](https://flabbergast.github.io/posts/arm-breakouts/).
 
+## blackmagic-hw
+
+A variation on [Black Magic Probe] Mini V1, based off of [Richard Meadows' variation](https://github.com/richardeoin/blackmagic-hardware/).
+See README in the subdirectory for more info.
 
 
 [AVR stick]: http://matrixstorm.com/avr/avrstick/
@@ -45,3 +49,4 @@ These are basic breakouts for some ARM chips. Minimal (recommended) extra parts.
 [ATECC108]: http://www.atmel.com/devices/atecc108.aspx
 [Olimex]: https://www.olimex.com/
 [UEXT]: https://www.olimex.com/Products/Modules/
+[Black Magic Probe]: https://black-magic.org/
